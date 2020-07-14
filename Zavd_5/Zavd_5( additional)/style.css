@@ -1,0 +1,38 @@
+.big{
+    width: 90%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+}
+.d123{
+    width: 70%;
+    margin: 0.5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.all{
+    background-color: red;    
+    height: 188px;
+}
+
+.d1{
+    width: 59%;
+    margin-right: 0.5%;
+}
+.d2{
+    width: 40%;
+    margin-left: 0.5%;
+}
+.d3{
+    width: 100%;
+}
+.d4{
+    width: 28% ;
+    margin: 0.5%;
+    height: 382px;
+}
+.d5{
+    width: 100%;
+    margin: 0.5%  ;
+}
