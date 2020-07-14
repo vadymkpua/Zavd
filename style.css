@@ -1,0 +1,26 @@
+p {
+	font-size: 16px;
+	text-align: justify;	
+}
+.updown{
+    height: 75px;
+    background-color: #f1eef1;  
+   
+}
+main{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.aside{
+    width: 170px;
+    padding: 15Px;
+}
+.left{
+    background-color: tomato;
+}
+.right{
+    background-color: yellow;
+}
+.section1{
+    padding: 15px;
+}
